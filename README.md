@@ -1,3 +1,5 @@
 # janani
 
-###In this project we will have 
+Learning git version control and collabrate with remote github repository. All of this by doing a mini website.
+
+
